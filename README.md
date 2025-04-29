@@ -13,8 +13,5 @@ pip install opencv-python numpy scikit-learn Pillow tqdm
 
 使用效果：
 
-参考图
-![](https://img.picui.cn/free/2025/04/30/68112c18a375e.jpg)
+![](https://github.com/AmAmIyA-Q/ImageRelative/blob/main/pic/example.png)
 
-排序效果：
-![](https://img.picui.cn/free/2025/04/30/68112c56d0322.png)
