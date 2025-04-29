@@ -10,3 +10,11 @@ pip install opencv-python numpy scikit-learn Pillow tqdm
 1. 修改素材库文件夹路径 `input_folder`
 2. 选择参考图片 `reference_image`
 3. 双击输出文件夹里面的 `\ImageRelative\点击查看排序结果.html` 文件
+
+使用效果：
+
+参考图
+![](https://img.picui.cn/free/2025/04/30/68112c18a375e.jpg)
+
+排序效果：
+![](https://img.picui.cn/free/2025/04/30/68112c56d0322.png)
